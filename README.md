@@ -4,7 +4,7 @@ Connect the network card with OpenvSwitch
 ●Preparation:
  1. Install Open vSwitch on Ubuntu
  2. Have a concept of SDN
- 3. Get familiar with the Open vSwitch: [English advanced tutorial](https://github.com/openvswitch/ovs/blob/master/Documentation/tutorials/ovs-advanced.rst)  [Chinese version](https://github.com/OSE-Lab/Learning-SDN/tree/master/Switch/OpenvSwitch/Walkthrough)
+ 3. Get familiar with the Open vSwitch: [English advanced tutorial](https://github.com/openvswitch/ovs/blob/master/Documentation/tutorials/ovs-advanced.rst)  /  [Chinese version](https://github.com/OSE-Lab/Learning-SDN/tree/master/Switch/OpenvSwitch/Walkthrough)
  4. Get familiar with the NuDOG
  5. Let's start
 
